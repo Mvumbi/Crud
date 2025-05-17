@@ -26,3 +26,5 @@ Ce projet est une application web développée avec **Django 5** permettant de g
 ```bash
 git clone https://github.com/mvumbi/crud.git
 cd nom-du-repo
+
+### 2️⃣ Créer et activer un environnement virtuel  
