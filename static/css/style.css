@@ -1,0 +1,24 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-fluid {
+    width: 100%;
+    padding: 0 15px; /* Évite que le contenu touche les bords */
+}
+
+.form-container, .list-group-item {
+    width: 100%;
+}
+
+@media (max-width: 576px) {
+    .card {
+        width: 100%;
+    }
+    .list-group-item {
+        width: 100%;
+    }
+}
